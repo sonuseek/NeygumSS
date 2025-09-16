@@ -1,3 +1,5 @@
 print('Hello world!')
 print('Hi!!!')
 print('Good afternoon!')
+a=int(input('Введите число\n'))
+b=int(input('Введите число\n'))
